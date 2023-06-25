@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411326039963",
+    "project_id": "mybingg-chat",
+    "storage_bucket": "mybingg-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411326039963:android:47dc74a08b716ad900033e",
+        "android_client_info": {
+          "package_name": "com.aarya.mybinggchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411326039963-ifrbcptp67hkp207veu7buv4fhptshei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aarya.mybinggchat",
+            "certificate_hash": "93b027e02ed6f2809b6f0621e6adaee91f091789"
+          }
+        },
+        {
+          "client_id": "411326039963-b1ehmihofe8b64v1uek5j5nhrspkgvga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCtCVnZ0MfJ4zaOy9Cwkze3eL86IHyNZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411326039963-b1ehmihofe8b64v1uek5j5nhrspkgvga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
