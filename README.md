@@ -1,5 +1,3 @@
-## MyBingg Chat App
-
 # Chat App
 
 A simple chat application built using **Android Studio**, **Kotlin**, and **Firebase**. This app allows users to sign in using email, view user lists, and engage in conversations.
@@ -27,7 +25,7 @@ A simple chat application built using **Android Studio**, **Kotlin**, and **Fire
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chat-app.git
+   git clone https://github.com/Aaryadeep/MyBingg-Chat-App.git
    ```
 2. Build apk file using Android studio and launch the app locally on your mobile.
 
